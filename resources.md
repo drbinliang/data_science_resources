@@ -1,0 +1,24 @@
+## Resources for Data Science in Python ##
+
+### Python ###
+* [Python Docs](https://docs.python.org/3/)
+* [Python Classes Docs](https://docs.python.org/3.5/tutorial/classes.html)
+
+### Data Science ###
+* [Scipy](http://scipy.org/) (for [IPython](http://ipython.org/), [Numpy](http://www.numpy.org/), [Pandas](http://pandas.pydata.org/), and [Matplotlib](http://matplotlib.org/))
+
+### Macine Learning ###
+* [scikit-learn Docs](http://scikit-learn.org/stable/documentation.html)
+* [scikit-learn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+
+### Text Mining ###
+* [NLTK](http://www.nltk.org/)
+* [NLTK Book](http://www.nltk.org/book/)
+* [Gensim](https://radimrehurek.com/gensim/intro.html)
+
+### Network ###
+* [NetworkX Documentation](https://networkx.readthedocs.io/en/stable/)
+
+### Community ###
+* [Stack Overflow](https://stackoverflow.com/questions)
+* [Cross Validated](https://stats.stackexchange.com/)
