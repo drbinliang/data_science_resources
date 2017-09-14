@@ -1,15 +1,22 @@
-## Resources for Data Science in Python ##
+## Resources for Data Science ##
 
 ### Python ###
 * [Python Docs](https://docs.python.org/3/)
 * [Python Classes Docs](https://docs.python.org/3.5/tutorial/classes.html)
+* * [IPython](http://ipython.org/)
 
-### Data Science ###
-* [Scipy](http://scipy.org/) (for [IPython](http://ipython.org/), [Numpy](http://www.numpy.org/), [Pandas](http://pandas.pydata.org/), and [Matplotlib](http://matplotlib.org/))
+### Data Science Tools in Python ###
+* [Scipy](http://scipy.org/)
+* [Numpy](http://www.numpy.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [Matplotlib](http://matplotlib.org/)
 
 ### Macine Learning ###
 * [scikit-learn Docs](http://scikit-learn.org/stable/documentation.html)
 * [scikit-learn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+
+### Deep Learning ###
+* Deep Learning Book [(English)](http://www.deeplearningbook.org/), [(Chinese)](https://github.com/exacity/deeplearningbook-chinese)
 
 ### Text Mining ###
 * [NLTK](http://www.nltk.org/)
