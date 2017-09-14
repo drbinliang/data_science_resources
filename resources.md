@@ -3,7 +3,7 @@
 ### Python ###
 * [Python Docs](https://docs.python.org/3/)
 * [Python Classes Docs](https://docs.python.org/3.5/tutorial/classes.html)
-* * [IPython](http://ipython.org/)
+* [IPython](http://ipython.org/)
 
 ### Data Science Tools in Python ###
 * [Scipy](http://scipy.org/)
